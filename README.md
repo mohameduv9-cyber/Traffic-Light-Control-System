@@ -11,7 +11,7 @@ The repository contains the following essential files:
 * **`Report Traffic Light.pdf`**: Detailed documentation and technical report of the project.
 
 ## 🛠️ Hardware Components (Simulated)
-* **Microcontroller:** ATmega32 / PIC (as per your design).
+* **Microcontroller:** ATmega32 A .
 * **Display:** Red, Yellow, and Green LEDs for Traffic signaling.
 * **Resistors:** For current limiting.
 * **Power Source:** 5V DC.
