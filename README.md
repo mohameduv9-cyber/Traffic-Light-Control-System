@@ -34,3 +34,4 @@ For a deep dive into the design choices, circuit diagram, and flowcharts, please
 
 ---
 Developed by [Mohamed Ahmed](https://github.com/mohameduv9-cyber)
+![Hardware Setup](./hardware_setup.png)
